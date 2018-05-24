@@ -1,0 +1,169 @@
+
+
+/* ==================================================== */
+
+
+/* 20. Footer Area Styles                               */
+
+
+/* ==================================================== */
+
+.footer-area {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    background: #212121;
+    font-size: 14px;
+    color: #a0a0a0;
+}
+
+.footer-area a {
+    font-weight: bold;
+    color: #a0a0a0;
+    text-decoration: none;
+}
+
+.footer-area a:hover {
+    color: #ABFF4F;
+    text-decoration: none;
+}
+
+
+/* Footer Top Area */
+
+.footer-top {
+    padding: 70px 0;
+    margin: 0 0 0 0;
+}
+
+.footer-nav ul {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    list-style-type: none;
+    font-weight: lighter;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.footer-nav ul li {
+    padding: 2px 0;
+    margin: 0 0 0 0;
+    font-weight: bold;
+}
+
+.footer-nav ul li:before {
+    padding: 0 10px 0 0;
+    margin: 0 0 0 0;
+    font-weight: lighter;
+    content: "";
+    color: #62646c;
+    font-size: 14px;
+}
+
+.footer-logo {
+    margin-bottom: 15px;
+}
+
+.footer-address ul {
+    padding: 0 0 0 15px;
+    margin: 0 0 0 0;
+    list-style: none;
+}
+
+.footer-address ul li {
+    padding: 7px 0;
+    margin: 0 0 0 0;
+}
+
+.footer-address ul li.email a {
+    color: #ABFF4F;
+}
+
+.footer-address ul li.email:before {
+    padding: 0 14px 0 0;
+    margin: 0 0 0 0;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.footer-address ul li.phone:before {
+    padding: 0 14px 0 0;
+    margin: 0 0 0 0;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.footer-address ul li.address:before {
+    padding: 0 14px 0 0;
+    margin: 0 0 0 0;
+    font-weight: lighter;
+    font-size: 14px;
+    display: block;
+    float: left;
+    height: 50px;
+}
+
+.footer-map {
+    text-align: center;
+}
+
+.footer-map .map {
+    margin-bottom: 20px;
+}
+
+.social-footer {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    list-style: none;
+    font-size: 24px;
+}
+
+.social-footer li {
+    padding: 0 5px;
+    margin: 0 0 0 0;
+    display: inline-table;
+}
+
+.social-footer li a {
+    color: #a0a0a0;
+}
+
+.social-footer li a:hover {
+    color: #ABFF4F;
+}
+
+
+/* Footer Bottom Area */
+
+.footer-bottom {
+    padding: 30px 0 20px 0;
+    margin: 0 0 0 0;
+    background: #000000;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+}
+
+
+@media (max-width: 991px) {
+    /* This media query is written for Ipad and tablets */
+    .footer-menu {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .footer-about {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .footer-address {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .footer-address ul li.address::before {
+        float: none;
+        display: inline;
+    }
+    .footer-bottom {
+        text-align: center;
+    }
+}

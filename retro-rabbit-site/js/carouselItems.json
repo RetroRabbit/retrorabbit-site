@@ -1,0 +1,27 @@
+[
+    {
+        "heading": "Online Insurance Portal",
+        "image": "css/images/carousel/agmockup.png",
+        "content": "Nothing is more frustrating than listening to someone's Ts and Cs over the phone. Especially when something bad has happened, and you need help from your insurance company now. So, we built an online self-service portal that lets you get a quote, submit claims, make policy amendments, and basically get insurance as fast as you can type. Which means no more holding for the next available operator."
+    },
+    {
+        "heading": "Online Business Learning Portal",
+        "image": "css/images/carousel/stdmockup.png",
+        "content": "Some of us want to learn a new language. Some of us want to learn to cook. And some of us want to learn to do business. But without all the boring bits. So, we built a platform which gamifies business training, allowing people to learn and have fun at the same time. With mini games and trivia questions, accessible both on web and mobile, you can gain real-world business insights, at home in your PJs."
+    },
+    {
+        "heading": "Money Management App",
+        "image": "css/images/carousel/immockup.png",
+        "content": "Money. The thing that makes the world go round (well, that and some complicated physics involving gravitational forces). Most people need a better way of tracking their money, to make sure their world doesn't end when the next bill's due. So, we created a super helpful mobile app that lets users track spending, manage bills, and earn rewards for sticking to a budget. Now, we're not saying we saved the world with this app…but we certainly helped lots of people in the world save."
+    },
+    {
+        "heading": "Hiring and Networking App",
+        "image": "css/images/carousel/klmockup.png",
+        "content": "We believe in the innate good in people. And by 'good' we mean 'good at something'. Like software development, tax consulting, yoga instructing, dog walking. So, we built an app that lets good people (who have services to sell) find other good people (who want to pay for those services), easily and quickly. That means professionals can spend less time looking for work, and more time doing work. And clients can find real professionals, instead of some guy whose flyer they took at the traffic light."
+    },
+    {
+        "heading": "Virtual Gameplay",
+        "image": "css/images/carousel/Pi_commander_mockup.png",
+        "content": "We're adults who like to play with toys. Especially very high-tech ones. So, we built a multiplayer robotic game, which integrates real-world robots with an insanely addictive online game. Yes, it is as amazing as it sounds."
+    }
+]
